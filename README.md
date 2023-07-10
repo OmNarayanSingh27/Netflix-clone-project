@@ -1,1 +1,1 @@
-# Netflix-clone-project
+# netflix-clone-live
